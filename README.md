@@ -1,4 +1,4 @@
-[![YarikMix's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarikMix&show_icons=true&theme=radical)](https://github.com/YarikMix/github-readme-stats)
+[![YarikMix's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarikMix&show_icons=true&theme=tokyonight)](https://github.com/YarikMix/github-readme-stats)
 
 <!--
 **YarikMix/YarikMix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
