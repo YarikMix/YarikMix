@@ -1,6 +1,15 @@
+[![YarikMix's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarikMix&show_icons=true&theme=tokyonight)](https://github.com/YarikMix/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YarikMix&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YarikMix&show_icons=true&theme=tokyonight&layout=compact" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YarikMix&theme=tokyonight&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YarikMix&theme=tokyonight&langs_count=10&layout=compact" />
+</div>
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=julheer&show_icons=true&theme=dark&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julheer&theme=dark&langs_count=10&layout=compact" />
 </div>
 
 <!--
