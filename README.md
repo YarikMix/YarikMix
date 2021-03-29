@@ -1,8 +1,4 @@
-[![YarikMix's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarikMix&show_icons=true&theme=tokyonight)](https://github.com/YarikMix/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YarikMix&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="center" style="display: flex">
+<div align="center" style="display: flex; align-items: center;">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YarikMix&show_icons=true&theme=tokyonight&layout=compact" />
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YarikMix&theme=tokyonight&langs_count=10&layout=compact" />
 </div>
