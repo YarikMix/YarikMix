@@ -1,5 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/YarikMix)
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=YarikMix&hide_title=true&hide_border=true&langs_count=5)
+
 ## <h3 align="left">GitHub Stats</h3>
 
 <div align="center" style="display: flex;">
