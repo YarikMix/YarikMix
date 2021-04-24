@@ -9,37 +9,6 @@ Git Config   1 min           ███████████▓░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-  </tr>
-</table>
-
 ## <h3 align="left">GitHub Stats</h3>
 
 <div align="center" style="display: flex;">
@@ -60,3 +29,38 @@ Git Config   1 min           ███████████▓░░░░░
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+
+<table>
+	<tr>
+		<td align="center" width="96">
+			<a href="#">
+				<img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+			</a>
+			<br>Python
+		</td>
+		<td align="center" width="96">
+			<a href="#">
+				<img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+			</a>
+			<br>JavaScript
+		</td>
+		<td align="center" width="96">
+			<a href="#">
+				<img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+			</a>
+			<br>Sass
+		</td>
+		<td align="center"  width="96">
+			<a href="#">
+				<img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+			</a>
+			<br>MySQL
+		</td>
+		<td align="center"  width="96">
+			<a href="#">
+				<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" alt="MySQL" />
+			</a>
+			<br>CSS3
+		</td>
+	</tr>
+</table>
