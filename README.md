@@ -2,7 +2,8 @@
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=YarikMix&hide_title=true&hide_border=true&langs_count=5)
 
-<img src="https://github.com/YarikMix/YarikMix/blob/main/images/stat.svg" alt="Alternative Text"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## <h3 align="left">GitHub Stats</h3>
 
