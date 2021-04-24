@@ -2,13 +2,6 @@
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=YarikMix&hide_title=true&hide_border=true&langs_count=5)
 
-<!--START_SECTION:waka-->
-```text
-Markdown     1 min           █████████████▒░░░░░░░░░░░   53.77 % 
-Git Config   1 min           ███████████▓░░░░░░░░░░░░░   46.23 % 
-```
-<!--END_SECTION:waka-->
-
 ## <h3 align="left">GitHub Stats</h3>
 
 <div align="center" style="display: flex;">
