@@ -26,43 +26,43 @@
 	<tr>
 		<td align="center" width="96">
 			<a href="#">
-				<img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+				<img src="./img/python-original.svg" width="48" height="48" alt="Python"/>
 			</a>
 			<br>Python
 		</td>
 		<td align="center" width="96">
 			<a href="#">
-				<img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+				<img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
 			</a>
 			<br>JavaScript
 		</td>
 		<td align="center" width="96">
 			<a href="#">
-				<img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+				<img src="./img/sass-original.svg" width="48" height="48" alt="Sass"/>
 			</a>
 			<br>Sass
 		</td>
 		<td align="center" width="96">
 			<a href="#">
-				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/1200px-Gulp.js_Logo.svg.png" height="48" alt="Gulp4" />
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/1200px-Gulp.js_Logo.svg.png" height="48" alt="Gulp"/>
 			</a>
-			<br>Gulp4
+			<br>Gulp
 		</td>
-		<td align="center"  width="96">
+		<td align="center" width="96">
 			<a href="#">
-				<img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+				<img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL"/>
 			</a>
 			<br>MySQL
 		</td>
-		<td align="center"  width="96">
+		<td align="center" width="96">
 			<a href="#">
-				<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" alt="CSS3" />
+				<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" alt="CSS3"/>
 			</a>
 			<br>CSS3
 		</td>
-		<td align="center"  width="96">
+		<td align="center" width="96">
 			<a href="#">
-				<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" height="48" alt="HTML5" />
+				<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" height="48" alt="HTML5"/>
 			</a>
 			<br>HTML5
 		</td>
