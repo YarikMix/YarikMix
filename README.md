@@ -44,6 +44,12 @@
 		</td>
 		<td align="center"  width="96">
 			<a href="#">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/1200px-Gulp.js_Logo.svg.png" width="48" height="48" alt="Gulp4" />
+			</a>
+			<br>Gulp4
+		</td>
+		<td align="center"  width="96">
+			<a href="#">
 				<img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
 			</a>
 			<br>MySQL
