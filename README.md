@@ -26,7 +26,13 @@
 	<tr>
 		<td align="center" width="96">
 			<a href="#">
-				<img src="./img/python-original.svg" width="48" height="48" alt="Python"/>
+				<img src="./img/c-sharp-logo.svg" width="48" height="48" alt="C#"/>
+			</a>
+			<br>C#
+		</td>
+		<td align="center" width="96">
+			<a href="#">
+				<img src="./img/python-logo.svg" width="48" height="48" alt="Python"/>
 			</a>
 			<br>Python
 		</td>
