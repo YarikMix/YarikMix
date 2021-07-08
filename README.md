@@ -1,50 +1,37 @@
 ![Profile views](https://gpvc.arturio.dev/YarikMix)
 
-## <h3 align="left">GitHub Stats</h3>
+<h3 align="left">GitHub Stats</h3>
 
 <div align="center" style="display: flex;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YarikMix&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YarikMix&langs_count=10&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </div>
 
-## <h3 align="left">Languages and Tools</h3>
-
-<!-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-
-<img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" />
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
- -->
+<h3 align="left">Languages and Tools</h3>
 
 <table>
 	<tr>
 		<td align="center" width="96">
 			<a href="#">
-				<img src="./img/c-sharp-logo.svg" width="48" height="48" alt="C#"/>
+				<img src="./img/c-sharp.svg" width="48" height="48" alt="C#"/>
 			</a>
 			<br>C#
 		</td>
 		<td align="center" width="96">
 			<a href="#">
-				<img src="./img/python-logo.svg" width="48" height="48" alt="Python"/>
+				<img src="./img/python.svg" width="48" height="48" alt="Python"/>
 			</a>
 			<br>Python
 		</td>
 		<td align="center" width="96">
 			<a href="#">
-				<img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+				<img src="./img/javascript.svg" width="48" height="48" alt="JavaScript"/>
 			</a>
 			<br>JavaScript
 		</td>
 		<td align="center" width="96">
 			<a href="#">
-				<img src="./img/sass-original.svg" width="48" height="48" alt="Sass"/>
+				<img src="./img/sass.svg" width="48" height="48" alt="Sass"/>
 			</a>
 			<br>Sass
 		</td>
@@ -56,21 +43,27 @@
 		</td>
 		<td align="center" width="96">
 			<a href="#">
-				<img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+				<img src="./img/mysql.svg" width="48" height="48" alt="MySQL"/>
 			</a>
 			<br>MySQL
 		</td>
 		<td align="center" width="96">
 			<a href="#">
-				<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" alt="CSS3"/>
+				<img src="./img/css3.png" width="48" height="48" alt="CSS3"/>
 			</a>
 			<br>CSS3
 		</td>
 		<td align="center" width="96">
 			<a href="#">
-				<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" height="48" alt="HTML5"/>
+				<img src="./img/html5.png" width="48" height="48" alt="HTML5"/>
 			</a>
 			<br>HTML5
+		</td>
+		<td align="center" width="96">
+			<a href="#">
+				<img src="./img/git.png" width="48" height="48" alt="Git"/>
+			</a>
+			<br>Git
 		</td>
 	</tr>
 </table>
