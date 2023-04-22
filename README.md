@@ -1,5 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/YarikMix)
 
+<h3 align="left">Leet Code</h3>
+
 <h3 align="left">GitHub Stats</h3>
 
 <div align="center" style="display: flex;">
