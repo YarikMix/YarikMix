@@ -1,6 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/YarikMix)
 
 <h3 align="left">Leet Code</h3>
+<span>https://leetcode.com/YarikMix/</span>
 
 <h3 align="left">GitHub Stats</h3>
 
