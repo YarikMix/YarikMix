@@ -35,7 +35,7 @@
 ## Контакты
 
 * [VK](https://vk.com/id345691818)
-* [Telegram](https://t.me/wrld_ivan](https://t.me/Yaroslav738)
+* [Telegram](https://t.me/Yaroslav738)
 
 # GitHub Stats
 
