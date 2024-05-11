@@ -25,10 +25,9 @@
 
 ## Навыки и умения
 
-| **Стек технологий** | *HTML, CSS, SCSS, Vanilla JS(ES6), TypeScript, React, Redux Toolkit, React Query, React Table,  Webpack, Vite, Git, Docker, Docker-compose, Node.js, Python, Django.* |
+| **Стек технологий** | *HTML, CSS, SCSS, Vanilla JS(ES6), TypeScript, React, Redux Toolkit, React Query, React Table,  Webpack, Vite, Git, Docker, Node.js, Python, Django.* |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Операционные системы** | *Windows*                                                                                                                                                     | 
-| **DataBases** | *PostgreSQL, MySQL*                                                                                                                                           | 
+| **Базы данных** | *PostgreSQL, MySQL, Redis*                                                                                                                                           | 
 | **Доп. навыки** | *Адаптивный дизайн*                                                                                                                                         |
 | **Английский** | *intermediate*                                                                                                                                                |
 
