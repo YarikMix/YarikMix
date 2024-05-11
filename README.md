@@ -1,7 +1,5 @@
 # Михалёв Ярослав Михайлович
 
-Москва | +79164180907 | j.mihalev1018@yandex.com | [Telegram](https://t.me/wrld_ivan) | [GitHub](https://github.com/IvanGorshkov) | 09.21.2003
-
 ## Проекты
 
 * ### [Сервис заметок YouNote](https://you-note.ru)
@@ -33,6 +31,11 @@
 | **DataBases** | *PostgreSQL, MySQL*                                                                                                                                           | 
 | **Доп. навыки** | *Адаптивный дизайн*                                                                                                                                         |
 | **Английский** | *intermediate*                                                                                                                                                |
+
+## Контакты
+
+* [VK](https://vk.com/id345691818)
+* [Telegram]([https://t.me/wrld_ivan](https://t.me/Yaroslav738))
 
 # GitHub Stats
 
