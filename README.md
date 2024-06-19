@@ -37,6 +37,10 @@
 * [VK](https://vk.com/id345691818)
 * [Telegram](https://t.me/Yaroslav738)
 
+## Прочие достижения
+
+* 103 балла за курс Frontend-разработки в Технопарк Mail.ru
+
 # GitHub Stats
 
 <div align="center" style="display: flex;">
