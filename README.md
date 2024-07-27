@@ -6,7 +6,7 @@
   <img alt="Banner" src="assets/cats.gif">
 </p>
 
-## 💻 — Skills and Tools
+## 💻 Skills and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,ts,nest,redux,html,css,sass,bootstrap )](https://skillicons.dev)
 
@@ -14,19 +14,19 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,nodejs,figma,sublime,webstorm,pycharm,visualstudio)](https://skillicons.dev)
 
-## 📝 — Projects
+## 📝 Projects
 
 * ### [Note Service 'YouNote'](https://you-note.ru)
 * ### [Electronic University](https://github.com/YarikMix/university)
 * ### [Social network “Life moments”](https://github.com/YarikMix/life-moments)
 * ### [Real Estate Agency](https://github.com/YarikMix/agency)
 
-## Contacts
+## 📞  Contacts
 
-* [VK](https://vk.com/id345691818)
-* [Telegram](https://t.me/Yaroslav738)
+* ### [VK](https://vk.com/id345691818)
+* ### [Telegram](https://t.me/Yaroslav738)
 
-## GitHub Stats
+## ✨ GitHub Stats
 
 <div align="center" style="display: flex;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YarikMix&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
