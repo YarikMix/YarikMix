@@ -21,6 +21,15 @@
 * ### [Social network “Life moments”](https://github.com/YarikMix/life-moments)
 * ### [Real Estate Agency](https://github.com/YarikMix/agency)
 
+## 🎮🕹️👾 My hobbies
+<pre>
+  🎮Gaming                     Favourite Game - Valheim : Cyberpunk 2077
+  🎧Listen to music            Favourite Song - Sicko Mode by Travis Scott
+  💻Programming                Favourite Programming Language - JavaScript
+  👺Anime                      Favourite Anime - Galaxy Express 999
+  🏃🏻️Sport                      Favourite sport - Basketball 🏀 : Gym 💪
+</pre>
+
 ## 📞  Contacts
 
 * ### [VK](https://vk.com/id345691818)
