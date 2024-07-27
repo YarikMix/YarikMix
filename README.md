@@ -1,46 +1,32 @@
-# Михалёв Ярослав Михайлович
+<h1 align="center">Hi there, I'm Yaroslav&nbsp<img src="assets/hi.gif" height="32"/></h1>
 
-## Проекты
+<h3 align="center">A Frontend programmer from Russia</h3>
 
-* ### [Сервис заметок YouNote](https://you-note.ru)
-* ### [Электронный университет](https://github.com/YarikMix/university)
-* ### [Социальная сеть “Моменты жизни”](https://github.com/YarikMix/life-moments)
-* ### [Агенство недвижимости](https://github.com/YarikMix/agency)
+<p align="center">
+  <img alt="Banner" src="assets/cats.gif">
+</p>
 
-## Образование
+## 💻 — Skills and Tools
 
-* #### ТЕХНОПАРК MAIL.RU на базе МГТУ ИМ. Н.Э. БАУМАНА
-    * Курс «Web разработка» | 2023 - 2025
-         * Web-технологии
-         * Алгоритмы и структуры данных
-         * Углубленное программирование на C/C++
-         * Базы данных
-         * Фронтенд-разработка
-         * Проектирование интерфейсов
-         * Тренинг "Навыки деловых коммуникаций"
-         * Разработка веб-сервисов на Golang
-         
-* #### МГТУ ИМ. Н.Э. БАУМАНА Информатика и Системы управления (Бакалавриат) | 2021-2025
-    * Специальность: Системы обработки информации и управления (ИУ5).
+[![My Skills](https://skillicons.dev/icons?i=js,react,ts,nest,redux,html,css,sass,bootstrap )](https://skillicons.dev)
 
-## Навыки и умения
+[![My Skills](https://skillicons.dev/icons?i=vite,python,docker,cs,django,npm,unity,git,postman )](https://skillicons.dev)
 
-| **Стек технологий** | *HTML, CSS, SCSS, Vanilla JS(ES6), TypeScript, React, Redux Toolkit, React Query, React Table,  Webpack, Vite, Git, Docker, Node.js, Python, Django.* |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Базы данных** | *PostgreSQL, MySQL, Redis*                                                                                                                                           | 
-| **Доп. навыки** | *Адаптивный дизайн*                                                                                                                                         |
-| **Английский** | *intermediate*                                                                                                                                                |
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,nodejs,figma,sublime,webstorm,pycharm,visualstudio)](https://skillicons.dev)
 
-## Прочие достижения
+## 📝 — Projects
 
-* 103 балла за курс Frontend-разработки в Технопарк Mail.ru
+* ### [Note Service 'YouNote'](https://you-note.ru)
+* ### [Electronic University](https://github.com/YarikMix/university)
+* ### [Social network “Life moments”](https://github.com/YarikMix/life-moments)
+* ### [Real Estate Agency](https://github.com/YarikMix/agency)
 
-## Контакты
+## Contacts
 
 * [VK](https://vk.com/id345691818)
 * [Telegram](https://t.me/Yaroslav738)
 
-# GitHub Stats
+## GitHub Stats
 
 <div align="center" style="display: flex;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YarikMix&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
