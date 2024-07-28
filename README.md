@@ -39,5 +39,5 @@
 
 ## 📞  Contacts
 
-* ### [VK](https://vk.com/id345691818)
-* ### [Telegram](https://t.me/Yaroslav738)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Yaroslav738)
+[![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id345691818)
