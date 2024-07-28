@@ -8,7 +8,7 @@
 
 ## 💻 Skills and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,ts,nest,redux,html,css,sass,bootstrap )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nest,redux,html,css,sass,bootstrap )](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vite,python,docker,cs,django,npm,unity,git,postman )](https://skillicons.dev)
 
