@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Yaroslav&nbsp<img src="assets/hi.gif" height="32"/></h1>
 
-<h3 align="center">A Frontend programmer from Russia</h3>
+<h3 align="center">A web developer from Russia</h3>
 
 <p align="center">
   <img alt="Banner" src="assets/cats.gif">
