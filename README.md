@@ -21,6 +21,13 @@
 * ### [Social network “Life moments”](https://github.com/YarikMix/life-moments)
 * ### [Real Estate Agency](https://github.com/YarikMix/agency)
 
+## ✨ GitHub Stats
+
+<div align="center" style="display: flex;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YarikMix&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YarikMix&langs_count=10&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+</div>
+
 ## 🎮🕹️👾 My hobbies
 <pre>
   🎮Gaming                     Favourite Game - Valheim : Cyberpunk 2077
@@ -34,10 +41,3 @@
 
 * ### [VK](https://vk.com/id345691818)
 * ### [Telegram](https://t.me/Yaroslav738)
-
-## ✨ GitHub Stats
-
-<div align="center" style="display: flex;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YarikMix&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YarikMix&langs_count=10&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-</div>
