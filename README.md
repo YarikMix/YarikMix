@@ -34,7 +34,7 @@
   🎧Listen to music            Favourite Song - Sicko Mode by Travis Scott
   💻Programming                Favourite Programming Language - JavaScript
   👺Anime                      Favourite Anime - Galaxy Express 999
-  🏃🏻️Sport                      Favourite Sport - Basketball 🏀 && Gym 💪
+  💪️Sport                      Favourite Sport - Basketball 🏀 && Gym 💪
 </pre>
 
 ## 📞  Contacts
