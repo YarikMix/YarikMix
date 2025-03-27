@@ -32,7 +32,7 @@
 
 `feb 2025` ➖ `now`&nbsp; WEB dev course(mentor) ▫️VK Education
 
-`july 2024` ➖ `now`&nbsp; Junior Frontend dev ▫️Mail.ru
+`july 2024` ➖ `now`&nbsp; Junior Frontend dev ▫️VK
 
 ## ✨ GitHub Stats
 
