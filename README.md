@@ -54,7 +54,7 @@
 
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Yaroslav738&color=blue&logo=telegram&logoColor=white&style=flat)](https://t.me/Yaroslav738)
 
-[![VK](https://img.shields.io/static/v1?label=VK&message=Ярослав%20Михалёв&color=blue&logo=vk&logoColor=white&style=flat)](https://t.me/ЯрославМихалёв)
+[![VK](https://img.shields.io/static/v1?label=VK&message=Ярослав%20Михалёв&color=blue&logo=vk&logoColor=white&style=flat)](https://vk.com/id345691818)
 
 ## 🔄 Last update
 
