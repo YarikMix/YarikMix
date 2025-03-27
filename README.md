@@ -17,9 +17,22 @@
 ## 📝 Projects
 
 * ### [Note Service 'YouNote'](https://you-note.ru)
+* ### [Browser Extension 'Purify'](https://github.com/YarikMix/Purify)
 * ### [Electronic University](https://github.com/YarikMix/university)
-* ### [Social network “Life moments”](https://github.com/YarikMix/life-moments)
+* ### [Social Network 'Life moments'](https://github.com/YarikMix/life-moments)
 * ### [Real Estate Agency](https://github.com/YarikMix/agency)
+
+## 📝👨‍🎓&nbsp;Education
+
+`sep 2021` ➖ `aug 2025`&nbsp; Bachelor 🔍 Information processing and management systems 🏢 [BMSTU](https://bmstu.ru/)
+
+## 🛠👨‍💻&nbsp;Experience
+
+`oct 2023` ➖ `june 2025`&nbsp; WEB dev course ▫️VK Education
+
+`feb 2025` ➖ `now`&nbsp; WEB dev course(mentor) ▫️VK Education
+
+`july 2024` ➖ `now`&nbsp; Junior Frontend dev ▫️Mail.ru
 
 ## ✨ GitHub Stats
 
@@ -37,7 +50,12 @@
   💪️Sport                      Favourite Sport - Basketball 🏀 && Gym 💪
 </pre>
 
-## 📞  Contacts
+## 📞 Contacts
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Yaroslav738)
-[![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id345691818)
+[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Yaroslav738&color=blue&logo=telegram&logoColor=white&style=flat)](https://t.me/Yaroslav738)
+
+[![VK](https://img.shields.io/static/v1?label=VK&message=Ярослав%20Михалёв&color=blue&logo=vk&logoColor=white&style=flat)](https://t.me/ЯрославМихалёв)
+
+## 🔄 Last update
+
+[![Profile last updated](https://img.shields.io/github/last-commit/YarikMix/YarikMix/main?label=Last%20updated&style=flat)](https://github.com/YarikMix/YarikMix/commits)
