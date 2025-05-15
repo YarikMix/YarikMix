@@ -6,6 +6,8 @@
   <img alt="Banner" src="assets/cats.gif">
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YarikMix&label=Profile%20views&color=0e75b6&style=flat" alt="YarikMix" /> </p>
+
 ## 💻 Skills and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nest,redux,html,css,sass,bootstrap )](https://skillicons.dev)
@@ -24,11 +26,11 @@
 
 ## 📝👨‍🎓&nbsp;Education
 
-`sep 2021` ➖ `aug 2025`&nbsp; Bachelor 🔍 Information processing and management systems 🏢 [BMSTU](https://bmstu.ru/)
+`sep 2021` ➖ `june 2025`&nbsp; Bachelor 🔍 Information processing and management systems 🏢 [BMSTU](https://bmstu.ru/)
 
 ## 🛠👨‍💻&nbsp;Experience
 
-`oct 2023` ➖ `june 2025`&nbsp; WEB dev course ▫️VK Education
+`oct 2023` ➖ `jule 2025`&nbsp; WEB dev course ▫️VK Education
 
 `feb 2025` ➖ `now`&nbsp; WEB dev course(mentor) ▫️VK Education
 
