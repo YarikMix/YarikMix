@@ -30,7 +30,7 @@
 
 ## 🛠👨‍💻&nbsp;Experience
 
-`oct 2023` ➖ `jule 2025`&nbsp; WEB dev course ▫️VK Education
+`oct 2023` ➖ `july 2025`&nbsp; WEB dev course ▫️VK Education
 
 `feb 2025` ➖ `now`&nbsp; WEB dev course(mentor) ▫️VK Education
 
