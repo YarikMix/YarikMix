@@ -4,7 +4,7 @@ Hi there&nbsp<img src="assets/hi.gif" height="32" alt=""/>
 
 <p><img src="https://komarev.com/ghpvc/?username=YarikMix&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<img src="assets/iam.gif" height="80px" alt=""/>
+<img src="assets/i_am.gif" height="80px" alt=""/>
 
 ### A web developer from Russia
 
