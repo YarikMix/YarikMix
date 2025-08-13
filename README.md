@@ -67,9 +67,9 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 ## 🛠👨‍💻&nbsp;Experience
 
-`oct 2023` ➖ `june 2025`&nbsp; WEB dev course • ️[VK Education](https://education.vk.company/)
+`oct 2023` ➖ `june 2025`&nbsp; WEB dev course •  ️[VK Education](https://education.vk.company/)
 
-`feb 2025` ➖ `now`&nbsp; WEB dev course(mentor) • [VK Education](https://education.vk.company/)
+`feb 2025` ➖ `now`&nbsp; WEB dev course (mentor) • [VK Education](https://education.vk.company/)
 
 `july 2024` ➖ `now`&nbsp; Junior Frontend dev • ️[VK](https://vk.company/)
 
