@@ -1,11 +1,12 @@
-<h1 align="center">
-Hi there&nbsp<img src="assets/hi.gif" height="32"/><br/><br/>
-<img src="assets/iam.gif" height="80px" />
+<h1 align="left">
+Hi there&nbsp<img src="assets/hi.gif" height="32" alt=""/>
 </h1>
 
-<h2 align="center">A web developer from Russia</h2>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=YarikMix&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YarikMix&label=Profile%20views&color=0e75b6&style=flat" alt="YarikMix" /> </p>
+<img src="assets/iam.gif" height="80px" alt=""/>
+
+<h2 align="left">A web developer from Russia</h2>
 
 ## 💻 Skills and Tools
 
@@ -38,7 +39,7 @@ Hi there&nbsp<img src="assets/hi.gif" height="32"/><br/><br/>
 
 [![My Skills](https://skillicons.dev/icons?i=go,sentry,grafana,prometheus)](https://skillicons.dev)
 
-## 💻 Learning Next
+## 📖 Learning Next
 
 [![My Skills](https://skillicons.dev/icons?i=next,kubernetes)](https://skillicons.dev)
 
