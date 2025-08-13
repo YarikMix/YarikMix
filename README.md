@@ -1,12 +1,14 @@
-<h1>
+<h1 align="center">
 Hi there&nbsp<img src="assets/hi.gif" height="32" alt=""/>
 </h1>
 
-<p><img src="https://komarev.com/ghpvc/?username=YarikMix&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-
+<div align="center">
 <img src="assets/i_am.gif" height="80px" alt=""/>
-
-### A web developer from Russia
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Yaroslav Mihalev | 💻 Web Developer | 🛸 Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YarikMix&label=Profile%20views&color=0e75b6&style=flat" alt="" />
+</p>
+</div>
 
 Bachelor's degree graduate of Bauman Moscow State Technical University. Master's degree student of ITMO University. VK Education graduate. VK Education mentor.
 
