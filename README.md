@@ -1,9 +1,9 @@
 <h1 align="center">
-Hi there&nbsp<img src="assets/hi.gif" height="32"/><br/>
-<img src="assets/iam.gif" height="100px" />
+Hi there&nbsp<img src="assets/hi.gif" height="32"/><br/><br/>
+<img src="assets/iam.gif" height="80px" />
 </h1>
 
-<h2 align="center">A web developer from Russia</h3>
+<h2 align="center">A web developer from Russia</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=YarikMix&label=Profile%20views&color=0e75b6&style=flat" alt="YarikMix" /> </p>
 
