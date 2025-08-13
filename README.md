@@ -1,8 +1,7 @@
-<h1 align="center">Hi there&nbsp<img src="assets/hi.gif" height="32"/></h1>
-
-<p align="center">
-    <img src="assets/iam.gif" height="100px" />
-</p>
+<h1 align="center">
+Hi there&nbsp<img src="assets/hi.gif" height="32"/><br/>
+<img src="assets/iam.gif" height="100px" />
+</h1>
 
 <h2 align="center">A web developer from Russia</h3>
 
