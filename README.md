@@ -85,9 +85,9 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 ## 📞 Contacts
 
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Yaroslav738&color=blue&logo=telegram&logoColor=white&style=flat)](https://t.me/Yaroslav738)
-
-[![VK](https://img.shields.io/static/v1?label=VK&message=Ярослав%20Михалёв&color=blue&logo=vk&logoColor=white&style=flat)](https://vk.com/id345691818)
+<a href="https://t.me/Yaroslav738" target="blank"><img align="center" src="assets/telegram-logo.svg" height="30" width="40"/></a>
+<a href="https://vk.com/id345691818" target="blank"><img align="center" src="assets/vk.svg" alt="dmitry__varin" height="30" width="40"/></a>
+<a href="mailto: yaroslav7689@gmail.com" target="blank"><img align="center" src="assets/email-opened-svgrepo-com.svg" height="30" width="40"/></a>
 
 ## 🔄 Last update
 
