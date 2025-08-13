@@ -10,7 +10,7 @@ Hi there&nbsp<img src="assets/hi.gif" height="32" alt=""/>
 </p>
 </div>
 
-Bachelor's degree graduate of Bauman Moscow State Technical University. Master's degree student of ITMO University. VK Education graduate. VK Education mentor.
+Bachelor's degree graduate of Bauman Moscow State Technical University. Master's degree student of ITMO University. VK Education graduate. VK Education mentor. Currently working in VK as Frontend Developer.
 
 ## 💻 Skills and Tools
 
