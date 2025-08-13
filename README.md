@@ -1,20 +1,47 @@
-<h1 align="center">Hi there, I'm Yaroslav&nbsp<img src="assets/hi.gif" height="32"/></h1>
-
-<h3 align="center">A web developer from Russia</h3>
+<h1 align="center">Hi there&nbsp<img src="assets/hi.gif" height="32"/></h1>
 
 <p align="center">
-  <img alt="Banner" src="assets/cats.gif">
+    <img src="assets/iam.gif" height="100px" />
 </p>
+
+<h2 align="center">A web developer from Russia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=YarikMix&label=Profile%20views&color=0e75b6&style=flat" alt="YarikMix" /> </p>
 
 ## 💻 Skills and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nest,redux,html,css,sass,bootstrap )](https://skillicons.dev)
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vite,python,docker,cs,django,npm,unity,git,postman )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,materialui,tailwind,webpack,vite)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,nodejs,figma,sublime,webstorm,pycharm,visualstudio)](https://skillicons.dev)
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,django)](https://skillicons.dev)
+
+### Mobile
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative&theme=dark)
+
+### Desktop
+[![My Skills](https://skillicons.dev/icons?i=tauri)](https://skillicons.dev)
+
+### Database
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)
+
+### DevOps
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,githubactions,sentry)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,linux,bash,powershell)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=postman,figma,webstorm)](https://skillicons.dev)
+
+## 🎯 Currently focused on
+
+[![My Skills](https://skillicons.dev/icons?i=go,sentry,grafana,prometheus)](https://skillicons.dev)
+
+## 💻 Learning Next
+
+[![My Skills](https://skillicons.dev/icons?i=next,kubernetes)](https://skillicons.dev)
 
 ## 📝 Projects
 
@@ -28,9 +55,11 @@
 
 `sep 2021` ➖ `june 2025`&nbsp; Bachelor 🔍 Information processing and management systems 🏢 [BMSTU](https://bmstu.ru/)
 
+`sep 2025` ➖ `june 2027`&nbsp; Magistracy 🔍 DevOps Cloud Services Engineer 🏢 [ITMO](https://itmo.ru/)
+
 ## 🛠👨‍💻&nbsp;Experience
 
-`oct 2023` ➖ `july 2025`&nbsp; WEB dev course ▫️VK Education
+`oct 2023` ➖ `june 2025`&nbsp; WEB dev course ▫️VK Education
 
 `feb 2025` ➖ `now`&nbsp; WEB dev course(mentor) ▫️VK Education
 
@@ -39,8 +68,8 @@
 ## ✨ GitHub Stats
 
 <div align="center" style="display: flex;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YarikMix&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YarikMix&langs_count=10&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YarikMix&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"  alt=""/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YarikMix&langs_count=10&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"  alt=""/>
 </div>
 
 ## 🎮🕹️👾 My hobbies
