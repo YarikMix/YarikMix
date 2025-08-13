@@ -15,13 +15,11 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 ## 💻 Skills and Tools
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,sass,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux,sass,bootstrap,materialui,tailwind)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=materialui,tailwind,materialui,tailwind)](https://skillicons.dev)
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=webpack,vite,reactquery,babel&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=webpack,vite,reactquery,babel,npm&theme=dark)
 
 ### Backend
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nestjs,nodejs,express,djangorestframework&theme=dark)
