@@ -51,7 +51,7 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 ## 📝 Projects
 
-* ### [Note Service 'YouNote'](https://you-note.ru)
+* ### [Note Service 'YouNote'](https://github.com/YarikMix/2024_1_scratch_senior_devs)
 * ### [Browser Extension 'Purify'](https://github.com/YarikMix/Purify)
 * ### [Electronic University](https://github.com/YarikMix/university)
 * ### [Social Network 'Life moments'](https://github.com/YarikMix/life-moments)
