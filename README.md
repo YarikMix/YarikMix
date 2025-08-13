@@ -24,7 +24,7 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=webpack,vite,reactquery,babel&theme=dark)
 
 ### Backend
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nestjs,nodejs,express,django,djangorestframework&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nestjs,nodejs,express,djangorestframework&theme=dark)
 
 ### Mobile
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative&theme=dark)
@@ -33,7 +33,7 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 [![My Skills](https://skillicons.dev/icons?i=tauri)](https://skillicons.dev)
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb)](https://skillicons.dev)
 
 ### DevOps
 [![My Skills](https://skillicons.dev/icons?i=docker,nginx,githubactions,sentry)](https://skillicons.dev)
