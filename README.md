@@ -1,12 +1,14 @@
-<h1 align="left">
+<h1>
 Hi there&nbsp<img src="assets/hi.gif" height="32" alt=""/>
 </h1>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=YarikMix&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=YarikMix&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <img src="assets/iam.gif" height="80px" alt=""/>
 
-<h2 align="left">A web developer from Russia</h2>
+### A web developer from Russia
+
+Bachelor's degree graduate of Bauman Moscow State Technical University. Master's degree student of ITMO University. VK Education graduate. VK Education mentor.
 
 ## 💻 Skills and Tools
 
