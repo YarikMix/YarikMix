@@ -61,7 +61,7 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 `sep 2021` ➖ `june 2025`&nbsp; Bachelor 🔍 Information processing and management systems 🏢 [BMSTU](https://bmstu.ru/)
 
-`sep 2025` ➖ `june 2027`&nbsp; Magistracy 🔍 DevOps Cloud Services Engineer 🏢 [ITMO](https://itmo.ru/)
+`sep 2025` ➖ `now`&nbsp; Magistracy 🔍 DevOps Cloud Services Engineer 🏢 [ITMO](https://itmo.ru/)
 
 ## 🛠👨‍💻&nbsp;Experience
 
