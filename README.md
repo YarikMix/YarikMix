@@ -37,9 +37,9 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 [![My Skills](https://skillicons.dev/icons?i=docker,nginx,githubactions,sentry)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,gitlab,linux,bash,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gitlab,linux,bash,powershell)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postman,figma,webstorm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,figma,webstorm)](https://skillicons.dev)
 
 ## 🎯 Currently focused on
 
