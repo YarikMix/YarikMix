@@ -15,11 +15,16 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 ## 💻 Skills and Tools
 
 ### Frontend
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=redux,sass,bootstrap,materialui,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux,sass,bootstrap,materialui,tailwind,styledcomponents)](https://skillicons.dev)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=webpack,vite,reactquery,babel,npm&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=webpack,vite,reactquery,babel,npm,yarn&theme=dark)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jest,selenium,testinglibrary&theme=dark)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=eslint,prettier&theme=dark)
 
 ### Backend
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nestjs,nodejs,express,djangorestframework,django&theme=dark)
@@ -43,11 +48,22 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 ## 🎯 Currently focused on
 
-[![My Skills](https://skillicons.dev/icons?i=go,sentry,grafana,prometheus)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,sentry)](https://skillicons.dev)
 
 ## 📖 Learning Next
 
-[![My Skills](https://skillicons.dev/icons?i=next,kubernetes)](https://skillicons.dev)
+### Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=next,electron,svelte,storybook)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=cypress,playwright,vitest,zustand,mobx)](https://skillicons.dev)
+
+### DevOps
+
+[![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,kubernetes)](https://skillicons.dev)
+
+### Other
+[![My Skills](https://skillicons.dev/icons?i=flutte)](https://skillicons.dev)
 
 ## 📝 Projects
 
