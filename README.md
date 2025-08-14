@@ -72,9 +72,6 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 [![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,kubernetes)](https://skillicons.dev)
 
-### Other
-[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
-
 ## 📝 Projects
 
 * ### [Note Service 'YouNote'](https://github.com/frontend-park-mail-ru/2024_1_scratch_senior_devs)
