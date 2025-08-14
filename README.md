@@ -3,8 +3,8 @@ Hi there&nbsp<img src="assets/hi.gif" height="32" alt=""/>
 </h1>
 
 <div align="center">
-<img src="assets/i_am3.gif" height="125" alt=""/><br/>
-<span style="font-size:1.25em;line-height:1.25;font-weight:bold;"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Yaroslav Mihalev | 💻 Web Developer | 🛸 Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></span>
+<img src="assets/i_am3.gif" height="125" alt=""/>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt=""> 🙎 Yaroslav Mihalev | 💻 Web Developer | 🛸 Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YarikMix&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </p>
