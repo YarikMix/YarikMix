@@ -26,7 +26,7 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jest,selenium,testinglibrary&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=eslint,prettier&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=eslint,prettier,stylelint&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=npm,yarn&theme=dark)
 
@@ -54,7 +54,7 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 ## 🎯 Currently focused on
 
-[![My Skills](https://skillicons.dev/icons?i=go,sentry)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,sentry,grafana,prometheus)](https://skillicons.dev)
 
 ## 📖 Learning Next
 
@@ -70,7 +70,7 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 ### DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
 
 ## 📝 Projects
 
