@@ -4,7 +4,7 @@ Hi there&nbsp<img src="assets/hi.gif" height="32" alt=""/>
 
 <div align="center">
 <img src="assets/i_am3.gif" height="125" alt=""/>
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt=""> 🙎 Yaroslav Mihalev | 💻 Web Developer | 🛸 Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Yaroslav Mihalev | 💻 Web Developer | 🛸 Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YarikMix&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </p>
@@ -18,13 +18,17 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=redux,sass,bootstrap,materialui,tailwind,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,materialui,tailwind,styledcomponents)](https://skillicons.dev)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=webpack,vite,reactquery,babel,npm,yarn&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=redux,reactquery&theme=dark)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=webpack,vite,babel&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jest,selenium,testinglibrary&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=eslint,prettier&theme=dark)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wnpm,yarn&theme=dark)
 
 ### Backend
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nestjs,nodejs,express,djangorestframework,django&theme=dark)
@@ -54,16 +58,16 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=next,electron,svelte,storybook)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=next,electron,svelte,storybook&theme=dark)
 
-[![My Skills](https://skillicons.dev/icons?i=cypress,playwright,vitest,zustand,mobx)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cypress,playwright,vitest,zustand,mobx&theme=dark)
 
 ### DevOps
 
 [![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,kubernetes)](https://skillicons.dev)
 
 ### Other
-[![My Skills](https://skillicons.dev/icons?i=flutte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 
 ## 📝 Projects
 
