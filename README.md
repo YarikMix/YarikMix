@@ -4,7 +4,7 @@ Hi there&nbsp<img src="assets/hi.gif" height="32" alt=""/>
 
 <div align="center">
 <img src="assets/i_am2.gif" height="125" alt=""/>
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Yaroslav Mihalev | 💻 Web Developer | 🛸 Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 style="margin-top:0;"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Yaroslav Mihalev | 💻 Web Developer | 🛸 Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YarikMix&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </p>
