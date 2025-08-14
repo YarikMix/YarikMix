@@ -28,7 +28,7 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=eslint,prettier&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wnpm,yarn&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=npm,yarn&theme=dark)
 
 ### Backend
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nestjs,nodejs,express,djangorestframework,django&theme=dark)
