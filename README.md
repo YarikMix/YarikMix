@@ -22,13 +22,15 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=redux,reactquery&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=webpack,vite,babel&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=webpack,vite,babel,rollupjs&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jest,selenium,testinglibrary&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jest,selenium,testinglibrary,vitest,cypress&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=eslint,prettier,stylelint&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=npm,yarn&theme=dark)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=storybook&theme=dark)
 
 ### Backend
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs&theme=dark)
@@ -54,19 +56,23 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 ## 🎯 Currently focused on
 
-[![My Skills](https://skillicons.dev/icons?i=go,sentry,grafana,prometheus)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,terraform,grafana,prometheus)](https://skillicons.dev)
 
 ## 📖 Learning Next
 
 ### Frontend
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=next,storybook&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=next&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cypress,playwright,vitest&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=playwright&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=electron,svelte&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zustand,mobx&theme=dark)
+
+### Backend
+
+[![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 
 ### DevOps
 
@@ -84,13 +90,11 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 `sep 2021` ➖ `june 2025`&nbsp; Bachelor 🔍 Information processing and management systems 🏢 [BMSTU](https://bmstu.ru/)
 
-`sep 2025` ➖ `now`&nbsp; Magistracy 🔍 DevOps Cloud Services Engineer 🏢 [ITMO](https://itmo.ru/)
-
 ## 🛠👨‍💻&nbsp;Experience
 
 `oct 2023` ➖ `june 2025`&nbsp; WEB dev course •  ️[VK Education](https://education.vk.company/)
 
-`feb 2025` ➖ `now`&nbsp; WEB dev course (mentor) • [VK Education](https://education.vk.company/)
+`feb 2025` ➖ `dec 2025`&nbsp; WEB dev course (mentor) • [VK Education](https://education.vk.company/)
 
 `july 2024` ➖ `now`&nbsp; Junior Frontend dev • ️[VK](https://vk.company/)
 
