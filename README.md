@@ -41,7 +41,7 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative&theme=dark)
 
 ### Desktop
-[![My Skills](https://skillicons.dev/icons?i=tauri)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tauri,cs)](https://skillicons.dev)
 
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb)](https://skillicons.dev)
