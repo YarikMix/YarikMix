@@ -47,7 +47,7 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb)](https://skillicons.dev)
 
 ### DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,githubactions,sentry)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,githubactions,sentry,ansible)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,linux,bash)](https://skillicons.dev)
@@ -56,7 +56,9 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 ## 🎯 Currently focused on
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,terraform,grafana,prometheus)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=zustand,mobx)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=terraform,grafana,prometheus)](https://skillicons.dev)
 
 ## 📖 Learning Next
 
@@ -67,8 +69,6 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=playwright&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=electron,svelte&theme=dark)
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zustand,mobx&theme=dark)
 
 ### Backend
 
