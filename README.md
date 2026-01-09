@@ -56,7 +56,7 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 ## 🎯 Currently focused on
 
-[![My Skills](https://skillicons.dev/icons?i=zustand,mobx)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zustand,mobx&titles=true)
 
 [![My Skills](https://skillicons.dev/icons?i=terraform,grafana,prometheus)](https://skillicons.dev)
 
