@@ -10,7 +10,7 @@ Hi there&nbsp<img src="assets/hi.gif" height="32" alt=""/>
 </p>
 </div>
 
-Bachelor's degree graduate of Bauman Moscow State Technical University. Master's degree student of ITMO University. VK Education graduate. VK Education mentor. Currently working in VK as Frontend Developer.
+Bachelor's degree graduate of Bauman Moscow State Technical University. VK Education graduate. VK Education mentor. Currently working in VK as Frontend Developer.
 
 ## 💻 Skills and Tools
 
@@ -56,6 +56,8 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 ## 🎯 Currently focused on
 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=next&theme=dark)
+
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zustand,mobx&titles=true)
 
 [![My Skills](https://skillicons.dev/icons?i=terraform,grafana,prometheus)](https://skillicons.dev)
@@ -63,8 +65,6 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 ## 📖 Learning Next
 
 ### Frontend
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=next&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=playwright&theme=dark)
 
@@ -107,7 +107,7 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. Master's
 
 ## 🎮🕹️👾 My hobbies
 <pre>
-  🎮Gaming                     Favourite Game - Valheim && Cyberpunk 2077
+  🎮Gaming                     Favourite Game - Cyberpunk 2077
   🎧Listen to music            Favourite Song - Sicko Mode by Travis Scott
   💻Programming                Favourite Programming Language - JavaScript
   👺Anime                      Favourite Anime - Galaxy Express 999
