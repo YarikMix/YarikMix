@@ -20,20 +20,20 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. VK Educa
 
 [![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,materialui,tailwind,styledcomponents)](https://skillicons.dev)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=redux,reactquery&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=redux,reactquery,tanstack&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=webpack,vite,babel,rollupjs&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=webpack,vite,babel,rollupjs,tsdown&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jest,selenium,testinglibrary,vitest,cypress&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=eslint,prettier,stylelint&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=npm,yarn&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=npm,yarn,bun&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=storybook&theme=dark)
 
 ### Backend
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,hono,nestjs&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=djangorestframework,django&theme=dark)
 
@@ -41,13 +41,13 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. VK Educa
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative&theme=dark)
 
 ### Desktop
-[![My Skills](https://skillicons.dev/icons?i=tauri,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tauri,electron,cs)](https://skillicons.dev)
 
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb)](https://skillicons.dev)
 
 ### DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,githubactions,sentry,ansible)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,docker,nginx,githubactions,sentry,ansible)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,linux,bash)](https://skillicons.dev)
@@ -60,11 +60,13 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. VK Educa
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zustand,mobx&titles=true)
 
-[![My Skills](https://skillicons.dev/icons?i=terraform,grafana,prometheus)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=terraform,grafana,prometheus,alertmanager)](https://skillicons.dev)
 
 ## 📖 Learning Next
 
 ### Frontend
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vue,nuxt&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=playwright&theme=dark)
 
@@ -96,7 +98,7 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. VK Educa
 
 `feb 2025` ➖ `dec 2025`&nbsp; WEB dev course (mentor) • [VK Education](https://education.vk.company/)
 
-`july 2024` ➖ `now`&nbsp; Junior Frontend dev • ️[VK](https://vk.company/)
+`july 2024` ➖ `now`&nbsp; Frontend dev • ️[VK](https://vk.company/)
 
 ## ✨ GitHub Stats
 
