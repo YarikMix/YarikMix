@@ -5,9 +5,9 @@ Hi there&nbsp<img src="assets/hi.gif" height="32" alt=""/>
 <div align="center">
 <img src="assets/i_am3.gif" height="125" alt=""/>
 <h3>
-<img align="center" src="./assets/nadzuna-typing.gif" width="30" alt=""/> 
+<img align="center" src="./assets/nadzuna-typing-header.gif" width="30" alt=""/> 
 🙎 Yaroslav Mihalev | 💻 Web Developer | 🛸 Russia 
-<img align="center" src="./assets/nadzuna-typing.gif" width="30" alt=""/>
+<img align="center" src="./assets/nadzuna-typing-header.gif" width="30" alt=""/>
 </h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YarikMix&label=Profile%20views&color=0e75b6&style=flat" alt="" />
