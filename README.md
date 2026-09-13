@@ -4,7 +4,11 @@ Hi there&nbsp<img src="assets/hi.gif" height="32" alt=""/>
 
 <div align="center">
 <img src="assets/i_am3.gif" height="125" alt=""/>
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Yaroslav Mihalev | 💻 Web Developer | 🛸 Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3>
+<img align="center" src="./assets/nadzuna-typing.gif" width="30" alt=""/> 
+🙎 Yaroslav Mihalev | 💻 Web Developer | 🛸 Russia 
+<img align="center" src="./assets/nadzuna-typing.gif" width="30" alt=""/>
+</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YarikMix&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </p>
@@ -96,7 +100,7 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. VK Educa
 
 `oct 2023` ➖ `june 2025`&nbsp; WEB dev course •  ️[VK Education](https://education.vk.company/)
 
-`feb 2025` ➖ `dec 2025`&nbsp; WEB dev course (mentor) • [VK Education](https://education.vk.company/)
+`feb 2025` ➖ `now`&nbsp; WEB dev course (mentor) • [VK Education](https://education.vk.company/)
 
 `july 2024` ➖ `now`&nbsp; Frontend dev • ️[VK](https://vk.company/)
 
@@ -120,7 +124,6 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. VK Educa
 
 <a href="https://t.me/Yaroslav738" target="blank"><img align="center" src="assets/telegram-logo.svg" height="30" width="40"/></a>
 <a href="https://vk.com/id345691818" target="blank"><img align="center" src="assets/vk.svg" alt="dmitry__varin" height="30" width="40"/></a>
-<a href="mailto: yaroslav7689@gmail.com" target="blank"><img align="center" src="assets/email-opened-svgrepo-com.svg" height="30" width="40"/></a>
 
 ## 🔄 Last update
 
