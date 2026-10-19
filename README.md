@@ -120,6 +120,12 @@ Bachelor's degree graduate of Bauman Moscow State Technical University. VK Educa
   💪️Sport                      Favourite Sport - Basketball 🏀 && Gym 💪
 </pre>
 
+## 🎧 Spotify
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31gmk7kt6zbhsovmjgkdgwqjms6m">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31gmk7kt6zbhsovmjgkdgwqjms6m" alt="Data Card for Spotify">
+</a>
+
 ## 📞 Contacts
 
 <a href="https://t.me/Yaroslav738" target="blank"><img align="center" src="assets/telegram-logo.svg" height="30" width="40"/></a>
